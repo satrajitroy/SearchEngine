@@ -1,0 +1,1 @@
+namespace SearchEngine.Tests.APITests { public class SearchControllerTests {} }
