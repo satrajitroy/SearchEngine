@@ -1,1 +1,0 @@
-namespace SearchEngine.Core.Indexing { public class RankingAlgorithm {} }

@@ -1,1 +1,0 @@
-namespace SearchEngine.Core.DataStorage { public class IndexStorage {} }
