@@ -1,1 +1,0 @@
-namespace SearchEngine.API.Controllers { public class SearchController {} }
