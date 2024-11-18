@@ -1,1 +1,0 @@
-namespace SearchEngine.Tests.Core { public class IndexingTests {} }
