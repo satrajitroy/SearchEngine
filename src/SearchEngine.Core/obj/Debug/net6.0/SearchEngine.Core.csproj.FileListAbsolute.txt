@@ -1,0 +1,12 @@
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.AssemblyInfoInputs.cache
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.AssemblyInfo.cs
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.csproj.CoreCompileInputs.cache
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.dll.config
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.deps.json
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.dll
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\bin\Debug\net6.0\SearchEngine.Core.pdb
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.dll
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\obj\Debug\net6.0\refint\SearchEngine.Core.dll
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\obj\Debug\net6.0\SearchEngine.Core.pdb
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.Core\obj\Debug\net6.0\ref\SearchEngine.Core.dll

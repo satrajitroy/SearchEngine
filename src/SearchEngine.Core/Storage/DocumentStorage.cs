@@ -1,0 +1,1 @@
+namespace SearchEngine.Core.DataStorage { public class DocumentStorage {} }

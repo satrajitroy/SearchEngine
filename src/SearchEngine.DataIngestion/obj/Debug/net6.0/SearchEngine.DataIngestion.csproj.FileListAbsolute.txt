@@ -1,0 +1,11 @@
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\bin\Debug\net6.0\SearchEngine.DataIngestion.deps.json
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\bin\Debug\net6.0\SearchEngine.DataIngestion.dll
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\bin\Debug\net6.0\SearchEngine.DataIngestion.pdb
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\obj\Debug\net6.0\SearchEngine.DataIngestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\obj\Debug\net6.0\SearchEngine.DataIngestion.AssemblyInfoInputs.cache
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\obj\Debug\net6.0\SearchEngine.DataIngestion.AssemblyInfo.cs
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\obj\Debug\net6.0\SearchEngine.DataIngestion.csproj.CoreCompileInputs.cache
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\obj\Debug\net6.0\SearchEngine.DataIngestion.dll
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\obj\Debug\net6.0\refint\SearchEngine.DataIngestion.dll
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\obj\Debug\net6.0\SearchEngine.DataIngestion.pdb
+D:\Satrajit\Source\Repos\CSharp_SearchEngine\src\SearchEngine.DataIngestion\obj\Debug\net6.0\ref\SearchEngine.DataIngestion.dll

@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Reference to the Core module -->
+    <ProjectReference Include="..\SearchEngine.Core\SearchEngine.Core.csproj" />
+  </ItemGroup>
+</Project>
