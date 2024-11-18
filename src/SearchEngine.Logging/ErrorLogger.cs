@@ -1,0 +1,1 @@
+namespace SearchEngine.Logging { public class ErrorLogger {} }

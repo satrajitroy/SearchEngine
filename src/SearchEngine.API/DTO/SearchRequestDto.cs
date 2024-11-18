@@ -1,4 +1,4 @@
-namespace SearchEngine.API.DTOs
+namespace SearchEngine.API.DTO
 {
     public class SearchRequestDto
     {

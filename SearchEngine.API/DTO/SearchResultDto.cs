@@ -1,0 +1,1 @@
+namespace SearchEngine.API.DTOs { public class SearchResultDto { public string[] Results { get; set; } } }

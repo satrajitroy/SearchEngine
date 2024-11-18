@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using SearchEngine.Core.Indexing.Models;
 
-namespace SearchEngine.API.DTOs
+namespace SearchEngine.API.DTO
 {
     public class SearchResultDto
     {

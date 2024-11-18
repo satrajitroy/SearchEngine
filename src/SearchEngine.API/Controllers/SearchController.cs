@@ -1,10 +1,10 @@
 using System;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
-using SearchEngine.API.DTOs;
+using SearchEngine.API.DTO;
 using SearchEngine.Core;
 
-namespace SearchEngine.API
+namespace SearchEngine.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

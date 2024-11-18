@@ -1,0 +1,1 @@
+namespace SearchEngine.Core.Indexing { public class Searcher {} }
